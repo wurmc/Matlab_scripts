@@ -8,7 +8,7 @@ Script for validation of RSS values of e.g. Bluetooth, WLAN or Cellular networks
 The script plots RSS values of the Spectrum Analyzer in dBm on the x-axis and RSS values of the smartphone in dBm on the y-axis to see if any patterns for a possible calibration exist.
 
 #### confdelta.m
-Script from Prof.Dr.Stefan Valentin to compute confidece deltas.
+Script from Prof. Dr. Stefan Valentin to compute confidece deltas.
 
 #### Handy_data_evaluation.nm
 Script for the calculation of the average RSS value in dBm needed for Calibration_scatter.m.
